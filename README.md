@@ -5,6 +5,5 @@
 - 🌱 I’m currently learning epidemiology and omics
 - 🏥 I'm interested in data science for public health
 - 📫 How to reach me: j.f.hameete@lumc.nl
-- 😄 Pronouns: she/her
 
 
