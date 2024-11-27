@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👩‍💼 I'm @Annoeska 
-- 💻 I’m working on my MSc thesis in Population Health Management @ LUMC
-- 🌱 I’m currently learning epidemiology and omics
+- 💻 I’m have a MSc degree in Population Health Management from Leiden University
+- 🌱 I’m currently working at Statistics Netherlands (CBS)
 - 🏥 I'm interested in data science for public health
-- 📫 How to reach me: j.f.hameete@lumc.nl
+- 📫 How to reach me: annoeska97@hotmail.com
 
 
